@@ -1,2 +1,2 @@
-# Shroomish-Card-Manager
+# Brave-Shroomish-Card-Manager
 A PTCG card manager that supports image recognition.
